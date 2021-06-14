@@ -52,7 +52,7 @@
 
 .formContent {
   width: 100%;
-  font-size: .9em;
+  font-size: 1.4em;
   padding: .8em;
   font-family: 'Source Sans Pro', sans-serif;
   min-height: 6em;
@@ -69,4 +69,4 @@
   padding: .6em 1em;
   font-size: 1.1em;
 }
-/*# sourceMappingURL=Home.module.css.map */
+/*# sourceMappingURL=PostForm.module.css.map */
