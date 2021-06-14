@@ -1,4 +1,4 @@
-import styles from "PostForm.module.scss";
+import styles from "./PostForm.module.scss";
 const PostForm = () => {
   return (
     <form>

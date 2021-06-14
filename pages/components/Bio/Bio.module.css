@@ -1,0 +1,53 @@
+.bio {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.bioImage {
+  margin-right: 3em;
+}
+
+.bioImage img {
+  width: 16em;
+  height: auto;
+  border-radius: 50%;
+}
+
+.bioContent {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.bioContentName {
+  font-weight: 900;
+  font-size: 52px;
+  line-height: 65px;
+  color: #4948A7;
+  margin: 0;
+}
+
+.bioContentTagline {
+  font-size: 37px;
+  line-height: 47px;
+  color: #414141;
+  margin-top: .2em;
+  margin-bottom: .4em;
+}
+
+.bioContentRole {
+  font-weight: bold;
+  font-size: 29px;
+  line-height: 36px;
+  color: #414141;
+  margin: 0;
+}
+/*# sourceMappingURL=Bio.module.css.map */
